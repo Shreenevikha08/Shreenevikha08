@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreenevikha08
+- 👋 Hi, I’m Shreenevikha
 - 👀 I’m interested in Java ,servlet and jsp
 - 🌱 I’m currently learning full stack
 
